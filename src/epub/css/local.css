@@ -123,7 +123,7 @@ figure + p{
 	text-align: left;
 }
 
-#chapter-86 blockquote p{
+#chapter-86 blockquote:last-of-type p{
 	text-align: center;
 }
 
