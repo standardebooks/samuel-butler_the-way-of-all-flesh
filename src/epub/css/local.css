@@ -104,6 +104,10 @@ figure + p{
 	text-align: right;
 }
 
+#chapter-37 blockquote table:first-of-type td:first-child{
+	white-space: nowrap;
+}
+
 #chapter-42 table{
 	border-collapse: collapse;
 	margin: 1em auto;
