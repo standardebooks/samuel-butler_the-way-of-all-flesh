@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/samuel-butler/the-way-of-all-flesh</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-12-11T22:48:45Z</dc:date>
+		<meta property="dcterms:modified">2019-12-11T22:48:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,13 +57,16 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008107441</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Way of All Flesh&lt;/i&gt; is often considered to be Samuel Butler’s masterpiece, and is frequently included in many lists of best English-language novels of the 20th century. Despite this acclaim, Butler never published it in his lifetime—perhaps because the novel, a scathing, funny, and poignant satire of Victorian life, would have hit his contemporaries too close to home.&lt;/p&gt;
+			&lt;p&gt;The novel traces four generations of the Pontifex family, though the central character is Ernest Pontifex, the third-generation wayward son. The reader follows Ernest through the eyes of his watchful godfather, Mr. Overton, as he strikes out from home to find his way in life. His struggles along the way illustrate the complex relationships between a son and his family, and especially his father; all while satirizing Victorian ideas about family, church, marriage, and schooling.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2084</dc:source>
 		<dc:source>https://books.google.com/books?id=wZAEAQAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">163838</meta>
+		<meta property="se:reading-ease.flesch">60.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Way_of_All_Flesh</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-butler_the-way-of-all-flesh</meta>
 		<dc:creator id="author">Samuel Butler</dc:creator>
@@ -77,10 +80,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/R_A_Streatfeild</meta>
 		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n50010957</meta>
 		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">J. M. W. Turner</dc:contributor>
+		<meta property="file-as" refines="#artist">Turner, J. M. W.</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79060712</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
