@@ -127,21 +127,6 @@ figure + p{
 	text-align: center;
 }
 
-figure{
-	margin: 1em auto;
-	text-align: center;
-}
-
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
-}
-
-figure + p{
-	text-indent: 0;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
