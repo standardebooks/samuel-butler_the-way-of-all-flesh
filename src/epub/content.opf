@@ -57,6 +57,9 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008107441</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">12</meta>
 		<dc:description id="description">Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Way of All Flesh&lt;/i&gt; is often considered to be &lt;a href="https://standardebooks.org/ebooks/samuel-butler"&gt;Samuel Butler’s&lt;/a&gt; masterpiece, and is frequently included in many lists of best English-language novels of the 20th century. Despite this acclaim, Butler never published it in his lifetime—perhaps because the novel, a scathing, funny, and poignant satire of Victorian life, would have hit his contemporaries too close to home.&lt;/p&gt;
