@@ -23,7 +23,7 @@ footer{
 
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -124,7 +124,7 @@ figure + p{
 }
 
 #chapter-42 table td:first-child{
-	text-align: left;
+	text-align: initial;
 }
 
 #chapter-86 blockquote:last-of-type p{
@@ -155,7 +155,7 @@ section[epub|type~="epigraph"] > *{
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 @supports(display: flex){
