@@ -49,6 +49,10 @@ p span.i2{
 	padding-left: 3em;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="se:letter.dateline"]{
 	font-style: italic;
 	margin-bottom: 1em;
