@@ -68,7 +68,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2084</dc:source>
 		<dc:source>https://books.google.com/books?id=wZAEAQAAIAAJ</dc:source>
-		<meta property="se:word-count">163837</meta>
+		<meta property="se:word-count">163856</meta>
 		<meta property="se:reading-ease.flesch">60.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Way_of_All_Flesh</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-butler_the-way-of-all-flesh</meta>
