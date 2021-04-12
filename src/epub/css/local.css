@@ -64,6 +64,7 @@ p span.i2{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
