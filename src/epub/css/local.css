@@ -76,9 +76,9 @@ figure img{
 }
 
 .epitaph{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
 }
 
 .epitaph b{
@@ -136,9 +136,9 @@ figure img{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
 
