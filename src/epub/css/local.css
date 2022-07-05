@@ -98,6 +98,7 @@ figure img{
 }
 
 #chapter-37 blockquote table{
+	font-variant-numeric: tabular-nums;
 	margin: 1em 0;
 }
 
