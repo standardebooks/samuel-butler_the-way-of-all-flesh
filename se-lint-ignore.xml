@@ -12,12 +12,6 @@
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-30.xhtml">
-		<ignore code="t-005">
-			<line>20</line>
-			<reason>Matched quotes are not dialog.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-86.xhtml">
 		<ignore code="t-017">
 			<line>51</line>
